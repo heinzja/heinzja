@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @l0-w-0l
+- 👋 Hi, I’m @l0-w-0l and my Name is Joseph Heinz
 - 👀 I’m interested in:
   - Computer Engineering
   - Software Engineering
