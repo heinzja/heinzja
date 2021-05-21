@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @l0-w-0l and my Name is Joseph Heinz
+- 👋 Hi, I’m @heinzja and my Name is Joseph Heinz
 - 👀 I’m interested in:
   - Computer Engineering
   - Software Engineering
@@ -12,6 +12,6 @@
   - joseph.heinz@alumni.msoe.edu
 
 <!---
-l0-w-0l/l0-w-0l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+heinzja/heinzja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
